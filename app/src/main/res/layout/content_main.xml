@@ -25,6 +25,6 @@
         android:layout_height="wrap_content"
         android:text="МойНовыйLabel22"
         tools:layout_editor_absoluteX="154dp"
-        tools:layout_editor_absoluteY="127dp" />
+        tools:layout_editor_absoluteY="95dp" />
 
 </android.support.constraint.ConstraintLayout>
